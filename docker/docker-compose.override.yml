@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  titan.ufc.users.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+    networks:
+      static-network:
+        ipv4_address: 172.20.1.1
+  sql.data:
+    environment:
+      - SA_PASSWORD=Pass@word
+      - ACCEPT_EULA=Y
+    ports:
+      - "5433:1433"    # Important: In a production environment your should remove the external port
+    networks:
+      static-network:
+        ipv4_address: 172.20.1.2
+networks:
+  default:
+    external:
+      name: nat
+  static-network:
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

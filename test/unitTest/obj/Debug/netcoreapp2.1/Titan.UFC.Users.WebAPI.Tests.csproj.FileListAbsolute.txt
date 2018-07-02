@@ -1,0 +1,34 @@
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.deps.json
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.runtimeconfig.json
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.runtimeconfig.dev.json
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.dll
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.pdb
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.dll
+D:\projects\titan-ufc-users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.pdb
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csprojAssemblyReference.cache
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csproj.CoreCompileInputs.cache
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.AssemblyInfoInputs.cache
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.AssemblyInfo.cs
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csproj.CopyComplete
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.dll
+D:\projects\titan-ufc-users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.pdb
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.deps.json
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.runtimeconfig.json
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.runtimeconfig.dev.json
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.pdb
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\bin\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.pdb
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csprojAssemblyReference.cache
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csproj.CoreCompileInputs.cache
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.AssemblyInfoInputs.cache
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.AssemblyInfo.cs
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.csproj.CopyComplete
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.dll
+D:\Bitbucket\Local copy from John - Users\test\unitTest\obj\Debug\netcoreapp2.1\Titan.UFC.Users.WebAPI.Tests.pdb

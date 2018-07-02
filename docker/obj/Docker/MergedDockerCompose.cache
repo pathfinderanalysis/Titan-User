@@ -1,0 +1,35 @@
+networks:
+  default:
+    external:
+      name: nat
+  static-network:
+    ipam:
+      config:
+      - subnet: 172.20.0.0/16
+services:
+  sql.data:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pass@word
+    image: microsoft/mssql-server-windows-express:2017-latest
+    networks:
+      static-network:
+        ipv4_address: 172.20.1.2
+    ports:
+    - published: 5433
+      target: 1433
+  titan.ufc.users.webapi:
+    build:
+      context: D:\Bitbucket\Local copy from John - Users\docker
+      dockerfile: ..\src\api\Dockerfile
+    depends_on:
+    - sql.data
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: titanufcuserswebapi
+    networks:
+      static-network:
+        ipv4_address: 172.20.1.1
+    ports:
+    - target: 80
+version: '3.4'

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BFCD7CAB-537D-426C-B21D-22F8998CDC79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9D70135D-D22D-4B62-B990-6CB8862579CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker", "docker", "{ACB25A82-4AAB-449C-9778-6162A085A7AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{923E6AED-F9DD-44F8-AE90-112ADC69A179}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Titan.UFC.Users.WebAPI", "src\api\Titan.UFC.Users.WebAPI.csproj", "{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unitTest", "unitTest", "{D9B75609-CAD3-4B26-9FCF-397CE4ACC7D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Titan.UFC.Users.WebAPI.Tests", "test\unitTest\Titan.UFC.Users.WebAPI.Tests.csproj", "{710E7DCE-6799-4FCC-A9B1-DFE98474BD92}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710E7DCE-6799-4FCC-A9B1-DFE98474BD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710E7DCE-6799-4FCC-A9B1-DFE98474BD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710E7DCE-6799-4FCC-A9B1-DFE98474BD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710E7DCE-6799-4FCC-A9B1-DFE98474BD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{923E6AED-F9DD-44F8-AE90-112ADC69A179} = {BFCD7CAB-537D-426C-B21D-22F8998CDC79}
+		{BAEB2BF1-1DF0-49B9-85CF-F141B98F8360} = {923E6AED-F9DD-44F8-AE90-112ADC69A179}
+		{D9B75609-CAD3-4B26-9FCF-397CE4ACC7D6} = {9D70135D-D22D-4B62-B990-6CB8862579CE}
+		{710E7DCE-6799-4FCC-A9B1-DFE98474BD92} = {D9B75609-CAD3-4B26-9FCF-397CE4ACC7D6}
+		{9D1934CA-E23F-4DCD-B5C1-30D04BCFA5BF} = {ACB25A82-4AAB-449C-9778-6162A085A7AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B4FCC2B-5491-4DB2-9EF4-8550F0E5603A}
+	EndGlobalSection
+EndGlobal

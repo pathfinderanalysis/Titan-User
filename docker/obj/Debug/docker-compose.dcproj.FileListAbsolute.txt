@@ -1,0 +1,1 @@
+D:\projects\titan-ufc-users\docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

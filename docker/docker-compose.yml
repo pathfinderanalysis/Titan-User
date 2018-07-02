@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  titan.ufc.users.webapi:
+    image: titanufcuserswebapi
+    build:
+      context: .
+      dockerfile: ..\src\api\Dockerfile
+    depends_on:
+      - sql.data
+  sql.data:
+    image: microsoft/mssql-server-windows-express:2017-latest
